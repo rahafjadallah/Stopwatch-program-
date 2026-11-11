@@ -1,10 +1,11 @@
 # ⏱️ Stopwatch Program
 
 ## 🌐 Live Demo
-
+(https://rahafjadallah.github.io/Stopwatch-program-/)
 
 ## 📷 Screenshot
 
+<img width="1366" height="648" alt="Stopwatch program " src="https://github.com/user-attachments/assets/4a10509a-8ef9-4876-9711-6e2ab3ccd258" />
 
 ## 📌 About The Project
 
